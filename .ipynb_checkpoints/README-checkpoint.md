@@ -14,7 +14,7 @@ With the advance of AI chatbots like [OpenAi's ChatGPT](https://chat.openai.com/
     Our initial assessment lead  us to believe an AI-generated essay will be structed and written within strict writing parameters.
 
  
-    H<SUB>0</SUB>: Part of speech usage will not differ in essays written by an AI when compared to an essay written by a student. <BK>
+    H<SUB>0</SUB>: Part of speech usage will not differ in essays written by an AI when compared to an essay written by a student.
     H<SUB>A</SUB>: Part of speech usage will differ in essays written by an AI when compared to an essay written by a student.
 
 
