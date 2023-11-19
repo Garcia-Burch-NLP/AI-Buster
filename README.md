@@ -21,9 +21,13 @@ Directory Breakdown
 
 DATA: Directory our data is held
 
-    - External Kaggle Database
-        - Daigt_external_dataset: This is an [external dataset](https://www.kaggle.com/datasets/alejopaullier/daigt-external-dataset) from kaggle.
-    - Master Data: Contains the data after it was merged together, and will act as our working data.
-    - Prompts: Contains the files with the prompts CSVs. 
-    - Submissions Format: Contains submission format for input CSV into machine learning  model
-    - Train Data: Contains the data we were provide at the begin of this project
+- External Kaggle Database
+    - Daigt_external_dataset: This is an [external dataset](https://www.kaggle.com/datasets/alejopaullier/daigt-external-dataset) from kaggle.
+- Master Data: Contains the data after it was merged together, and will act as our working data.
+- Prompts: Contains the files with the prompts CSVs. 
+- Submissions Format: Contains submission format for input CSV into machine learning  model
+- Train Data: Contains the data we were provide at the begin of this project
+
+Fermin: Contains Fermin's Working Files 
+
+Josh: Contains Josh's Working Files
